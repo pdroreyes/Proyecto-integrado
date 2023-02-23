@@ -1,0 +1,1 @@
+En este archivo vamos a ir creando un readme para ir explicando lo que iremos haciendo.
